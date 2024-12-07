@@ -11846,6 +11846,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.Mauris img {
+  border-radius: 100%;
+  border: solid #E3E3E3 8px;
+}
+
 header {
   background-image: url("../../public/img/banner.jpg");
   background-repeat: no-repeat;
